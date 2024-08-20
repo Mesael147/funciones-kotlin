@@ -37,8 +37,6 @@ fun main() {
 }
 var n1=12.0
 var n2= 6.0
-var numeral1=8.0
-var numeral2=10.0
 fun suma(){
     var suma=n1+n2
     println("la suma es $suma")
